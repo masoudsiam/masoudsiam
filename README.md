@@ -1,4 +1,4 @@
-### <div align="center">Hi <img src="https://github.com/masoudsiam/masoudsiam/blob/main/wave.gif" width="30px">, My name is Masoud and I'm an electronic engineering student. I love programming in my free time.</div>  
+### <div align="center">Hi <img src="https://github.com/masoudsiam/masoudsiam/blob/main/wave.gif" width="30px">, My name is Masoud and I am an electronic engineering student. I love programming in my free time.</div>  
 
 
 <br/>  
@@ -11,11 +11,11 @@
 
 ### Programming Languages
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/cplusplus-original.svg" alt="CPP" height="50" />  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/csharp-original.svg" alt="CS" height="50" />  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/vhdlverilog.jpg" alt="vhdlverilog" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-C-blue" alt="C" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-C++-blue" alt="CPP" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-C%23-blue" alt="CS" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-Python-blue" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-VHDL and Verilog-blue" alt="vhdlverilog" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -24,29 +24,34 @@
 
 ### Engineering Softwares
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/OrCAD_Logo_Red_NoTag.png" alt="Orcad" height="50" />  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/PSIM_logo.png" alt="Psim" height="50" />  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/altium-designer-icon.png" alt="Altium" height="50" />  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/Matlab_Logo.png" alt="Matlab" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-Orcad-red" alt="Orcad" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-Psim-red" alt="Psim" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-Altium Designer-red" alt="Altium" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-Matlab-red" alt="Matlab" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 
-
+  
 ### Programmable Controllers
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/Avr_logo.svg.png" alt="AVR" height="50" />   
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/arm_logo.jpg" alt="ARM" height="50" />  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/fpga.png" alt="FPGA" height="50" />  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/plc.png" alt="PLC" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-AVR-green" alt="AVR" height="50" />   
+<img style="margin: 10px" src="https://img.shields.io/badge/-ARM-green" alt="ARM" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-FPGA-green" alt="FPGA" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-PLC-green" alt="PLC" height="50" />  
 </div>
   
-- I also have experience in using machine learning and IoT topics.
-
 </td></tr></table>  
 
 <br/>  
+
+## Developing Skills
+- machine learning
+- IoT
+- High Frequency PCB design
+
+<br/>
 
 ## Connect with me  
 <div align="center">
