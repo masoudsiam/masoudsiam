@@ -9,7 +9,7 @@
 
 
 
-### Programming Languages
+#### Programming Languages
 <div align="center">  
 <img style="margin: 10px" src="https://img.shields.io/badge/-C-blue" alt="C" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/-C++-blue" alt="CPP" height="50" />  
@@ -22,7 +22,7 @@
 
 
 
-### Engineering Softwares
+#### Engineering Softwares
 <div align="center">  
 <img style="margin: 10px" src="https://img.shields.io/badge/-Orcad-red" alt="Orcad" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/-Psim-red" alt="Psim" height="50" />  
@@ -34,7 +34,7 @@
 
 
   
-### Programmable Controllers
+#### Programmable Controllers
 <div align="center">  
 <img style="margin: 10px" src="https://img.shields.io/badge/-AVR-green" alt="AVR" height="50" />   
 <img style="margin: 10px" src="https://img.shields.io/badge/-ARM-green" alt="ARM" height="50" />  
