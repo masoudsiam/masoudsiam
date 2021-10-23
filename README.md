@@ -25,7 +25,7 @@
 ### Engineering Softwares
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/OrCAD_Logo_Red_NoTag.png" alt="Orcad" height="50" />  
-<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/PSIM_logo.png alt="Psim" height="50" />  
+<img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/PSIM_logo.png" alt="Psim" height="50" />  
 <img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/altium-designer-icon.png" alt="Altium" height="50" />  
 <img style="margin: 10px" src="https://github.com/masoudsiam/masoudsiam/blob/main/Matlab_Logo.png" alt="Matlab" height="50" />  
 </div>
